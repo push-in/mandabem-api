@@ -6,7 +6,7 @@
 
 ### Instalação
 
-composer install pushinbr/mandabem-api
+composer require pushinbr/mandabem-api
 
 ### USO
 
