@@ -1,6 +1,6 @@
 <?php
 
-namespace Pushin;
+namespace Pushinbr;
 
 use GuzzleHttp\Client as HttpClient;
 

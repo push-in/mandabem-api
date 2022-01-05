@@ -1,6 +1,6 @@
 <?php
 
-namespace Pushin;
+namespace Pushinbr;
 
 
 abstract class TiposServico {
