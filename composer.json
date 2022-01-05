@@ -1,0 +1,17 @@
+{
+  "name": "pushin/mandabem-api",
+  "authors": [
+    {
+      "name": "David William Balbino",
+      "email": "davidwilliambalbino@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pushin\\": "src"
+    }
+  }
+}
